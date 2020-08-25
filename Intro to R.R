@@ -1,5 +1,5 @@
 # R script to accompany Intro to R
-# Copy for Carmen Liuzza 2020
+# Copy for Carmen Liuzza 2020 at Lehigh
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
